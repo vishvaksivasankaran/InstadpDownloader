@@ -1,7 +1,7 @@
 # InstadpDownloader
 Code download instagram profile picture and last updated 18 post from a public account
 
-It is simple python code to read and media file and downloading them.
+It is simple python code to read the media file and downloading them.
 
 Step1: Open command prompt.
 
